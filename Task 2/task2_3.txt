@@ -1,0 +1,9 @@
+Advantages:
+- A clear advantage of using automated test generation is the speed in the long-term, because they are significantly faster to run than manual tests.
+- Using such tools also reduces the reliance on the availability of testing engineers, meaning that it frees up time for these testing staff
+- Automated testing also has less chance of error, since it removes human error, and is therefore more reliable.
+
+Disadvantages:
+- Setting up the generated test scripts can take a long time.
+- Automated test generation can require additional training (expensive and time consuming)
+- Automated test generation tools are often very expensive.
